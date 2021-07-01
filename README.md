@@ -8,6 +8,7 @@ It's really nice to meet you!! My name is Manassés, but you can call me Maná! 
 
 <a href="https://www.instagram.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://www.twitter.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+<a href="mailto:manasses3mm@gmail.com" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/mail.svg" /></a>
 <br/>
 ---
 ### Languages and Tools:
