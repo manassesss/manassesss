@@ -6,6 +6,8 @@
 
 It's really nice to meet you!! My name is Manassés, but you can call me Maná! I'm majoring in Computer Science. At the moment, I'm researching in Image Processing and learning more about Frontend Development. Feel Welcome!! 
 
+
+<a href="https://www.linkedin.com/in/manasses-silva/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://www.twitter.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
 <a href="mailto:manasses3mm@gmail.com" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg" /></a>
