@@ -1,7 +1,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there!! What's up?!
 
-<img align="right" src="https://github.com/manassesss/try-repo/blob/main/changed.svg" width="400">
+
 <br/>
 
 It's really nice to meet you!! My name is Manassés, but you can call me Maná! I'm majoring in Computer Science. At the moment, I'm researching in Image Processing and learning more about Frontend Development. Feel Welcome!! 
@@ -39,7 +39,7 @@ It's really nice to meet you!! My name is Manassés, but you can call me Maná! 
 **manassesss/manassesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img align="right" src="https://github.com/manassesss/try-repo/blob/main/changed.svg" width="400">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
