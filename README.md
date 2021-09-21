@@ -29,7 +29,8 @@ It's really nice to meet you!! My name is Manassés, but you can call me Maná! 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26"/>
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/kisspng-django-web-development-web-framework-python-softwa-django-5b45d914274e46.055745571531304212161.png" alt="react" width="26"/> </a> 
 
 <br />
 ---
