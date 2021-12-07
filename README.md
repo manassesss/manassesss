@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/manassesss/try-repo/blob/main/profile2.svg" width="400">
 <br/>
 
-It's really nice to meet you!! My name is Manassés, but you can call me Maná! I'm majoring in Computer Science. At the moment, I'm researching in Image Processing and learning more about Frontend Development. Feel Welcome!! 
+It's really nice to meet you!! My name is Manassés, but you can also call me Maná! I'm majoring in Computer Science. At the moment, I'm researching in Image Processing and learning more about Frontend Development. Feel Welcome!! 
 
 
 <a href="https://www.linkedin.com/in/manasses-silva/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/linkedin.svg" /></a>
