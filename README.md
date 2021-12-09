@@ -31,7 +31,7 @@ It's really nice to meet you!! My name is Manassés, but you can also call me Ma
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/kisspng-django-web-development-web-framework-python-softwa-django-5b45d914274e46.055745571531304212161.png" alt="react" width="26"/> </a> 
-
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/logovue.png" alt="react" width="26"/> </a> 
 <br />
 ---
 <details>	
