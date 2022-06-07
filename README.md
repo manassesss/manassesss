@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there!! What's up?!
+### Hello there!! What's up?!
 
 <img align="right" src="https://github.com/manassesss/try-repo/blob/main/profile2.svg" width="400">
 <br/>
