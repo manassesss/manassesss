@@ -24,14 +24,16 @@ It's really nice to meet you!! My name is Manassés, but you can also call me Ma
 <br />
 
 ### Tools:
+<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/react-native-1.svg" alt="react-native" width="30"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/logovue.png" alt="react" width="26"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26"/>
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/kisspng-django-web-development-web-framework-python-softwa-django-5b45d914274e46.055745571531304212161.png" alt="react" width="26"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/logovue.png" alt="react" width="26"/> </a> 
+
+
 <br />
 ---
 <details>	
