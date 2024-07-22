@@ -9,7 +9,6 @@ It's really nice to meet you!! My name is Manassés, but you can also call me Ma
 
 <a href="https://www.linkedin.com/in/manasses-silva/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/linkedin.svg" /></a>
 <a href="https://www.instagram.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/instagram.svg" /></a>
-<a href="https://www.twitter.com/manassess_san/" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/twitter.svg" /></a>
 <a href="mailto:manasses3mm@gmail.com" target="_blank"><img align="left" alt="mana eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/envelope.svg" /></a>
 <br/>
 ---
